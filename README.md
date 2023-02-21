@@ -7,10 +7,6 @@ Although I encountered a few challenges when working with EJS for the first time
 
 While I found EJS to be an intriguing tool to learn and use, I do not anticipate using it extensively in the future. Nonetheless, building something with it was a stimulating learning experience.
 
-## What is Scope?
-
-JavaScript has two distinct types of scope: Function Scope and Global Scope. When a variable is defined inside a function, it is only accessible within that function, creating Function Scope. On the other hand, when a variable is declared outside a function, it becomes a Global variable and can be accessed from anywhere within a JavaScript program, hence creating a Global Scope.
-
 ## Tech Stack
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://nodejs.org/en/"> <img src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" alt="node.js"/> </a>
@@ -29,4 +25,6 @@ node app.js
 ## Screenshot
 <img width="1297" alt="image" src="https://user-images.githubusercontent.com/82875984/218768077-8b8a650b-3696-4d96-9689-0f8f7ac6c129.png">
 
+## What is Scope?
 
+JavaScript has two distinct types of scope: Function Scope and Global Scope. When a variable is defined inside a function, it is only accessible within that function, creating Function Scope. On the other hand, when a variable is declared outside a function, it becomes a Global variable and can be accessed from anywhere within a JavaScript program, hence creating a Global Scope.
